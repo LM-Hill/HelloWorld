@@ -1,6 +1,6 @@
 #HelloWorld
 
-This is an example repository I put on GitHub
+This is an example I put on GitHub
 
 ![Lea Hill](hill,lea.jpg "Lea Hill")
 
