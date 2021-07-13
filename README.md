@@ -1,4 +1,4 @@
-![Lea Hill](hill,lea.jpg/500/500?image=1000)
+<img src="hill,lea" width="500" height = "500" alt="Lea Hill">
 
 #HelloWorld
 
