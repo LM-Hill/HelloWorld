@@ -1,4 +1,4 @@
-![Lea Hill](hill,lea.jpg)
+![Lea Hill](hill,lea.jpg/500/500?image=1000)
 
 #HelloWorld
 
