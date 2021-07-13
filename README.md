@@ -1,6 +1,6 @@
 ![Lea Hill](hill,lea.jpg "Lea Hill")
 
-#HelloWorld
+# HelloWorld
 
 This is an example I put on GitHub
 
