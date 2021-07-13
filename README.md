@@ -1,9 +1,9 @@
-![Lea Hill](hill,lea.jpg "Lea Hill")
-
 #HelloWorld
 
 This is an example repository I put on GitHub
----
+
+![Lea Hill](hill,lea.jpg "Lea Hill")
+
 This is a **review** of the
 - init
 - commit
