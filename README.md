@@ -18,7 +18,7 @@ This example is also a demonstration of the use of markdown language using the [
 
 A little bit about me
 
-'''
+```
 {
     "first_name": "Lea",
     "last_name": "Hill",
@@ -26,4 +26,4 @@ A little bit about me
     "age": 367
     "comment": "I look FANTASTIC for my age."
 }
-'''
+```
